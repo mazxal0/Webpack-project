@@ -1,3 +1,3 @@
 export const someFn = (num: number) => {
-  console.log(12345)
+  console.log(12345, 'adqwdqd')
 }
